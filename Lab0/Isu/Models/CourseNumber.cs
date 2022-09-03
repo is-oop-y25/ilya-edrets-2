@@ -1,3 +1,9 @@
 namespace Isu.Models;
 
-public class CourseNumber { }
+public enum CourseNumber
+{
+    First,
+    Second,
+    Third,
+    Fourth,
+}
